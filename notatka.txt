@@ -1,0 +1,70 @@
+
+
+NA KUCHNIE:
+data:
+godzina zamowienia:
+przewidywany czas:
+nr zam. 01
+ilość pizz: 4
+
+413/15
+RUCOLA      /     CAPRICIOSA
+- parmezan        - papryka
++ suszone
+  pomidory
+
+316
+OLIVIO
+- oliwki zielone
+
+322
+SPINACHI
++ kapary
++ parmezan
+
+421/15
+CARBONARA      /     CARPICIOSA
+całość na sosie pomidorowym/śmietanowym
++ kapary        + oliwki
+- oregano       - oregano
+
+
+DODATKI:
+sos czosnkowy, sos pomidorowy
+
+POL/POL
+RUCOLA
+- papryka
++ pomidorki
+CAPRICIOSA
+- kapary
++ parmezan
+
+* jeśli nie ma dodatków żadnych to nie drukuje DODATKI done
+
+* format daty i godziny bez milisekund done
+
+* jak wyświetlają się składniki, które można odjąć z pizzy to mogłyby być wg kolejności (opcjonalne bardzo)
+
+* wyswieetlanie pizzy pol na pol za pomocą string format
+
+* zapisywanie do pliku każdego jednego zamowienia
+
+* zliczanie danych typów pizz z dnia po zakmnięciu programu
+
+* opcja płatności? czy zapłacono online, gotówką/kartą ?
+
+*
+
+1. klient zamawia pizze
+2. zbieramy zamowienie do programu
+3. program po zatwierdzeniu zamowienia drukuje to oraz wyswietla na tablecie nowe zamowienie
+4. kuchnia/manager ma możliwość zamknięcia zamowienia na tablecie
+5. zamkniete zamowienia trafiają do miejsca gdzie zostają zliczane
+6. po zamknięciu programu program wyswietla podsumowanie  - ilosc duzych pizz oraz małych pizz i ewentualnie ilość wyjazdów
+(wersja pro zlicza także ile powinno być z płatności online  - wersja bardzo pro zlicza wszystkie płatności  - bardzo opcjonalne, do przegadania.
+
+
+
+
+
